@@ -1,0 +1,12 @@
+{
+  "title": "Electronics consignment #A-1001",
+  "status": "in_transit",
+  "lat": 9.076479, 
+  "lng": 7.398574,
+  "driverName": "Emeka Okafor",
+  "vehicleId": "TRUK-4521",
+  "eta": "2025-09-22T14:30:00Z",
+  "created_at": "2025-09-20T08:00:00Z",
+  "updated_at": "2025-09-20T10:15:00Z",
+  "notes": "Fragile; keep upright"
+}
